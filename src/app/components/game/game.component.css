@@ -1,0 +1,37 @@
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.consultant {
+    padding: 15px;
+    text-align: center;
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+div.warlord {
+    padding: 15px;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("https://f.ptcdn.info/741/050/000/ooz5aaf3rT9EX0sU9si-o.jpg");
+    height: 900px;
+    width: 1200px;
+}
